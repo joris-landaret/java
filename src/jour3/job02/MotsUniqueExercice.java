@@ -6,7 +6,7 @@ import java.util.HashMap;
 public class MotsUniqueExercice {
 
     public static void main(String[] args) {
-        ArrayList<String> list = new ArrayList<String>();
+        ArrayList<String> list = new ArrayList<>();
         list.add("chat");
         list.add("chien");
         list.add("chien");
